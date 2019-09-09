@@ -1,0 +1,11 @@
+website: 'example.com'
+discord: 'https://discord.gg/example'
+teamspeak: 'ts.example.com'
+youtube: 'https://youtube.com/c/example'
+instagram: 'https://instagram.com/example'
+twitter: 'https://twitter.com/example'
+facebook: 'https://facebook.com/example'
+snapchat: 'https://snapchat.com/add/example'
+
+prefix-color: '&6'
+color:  '&7'

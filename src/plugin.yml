@@ -1,0 +1,40 @@
+name: SocialCommands
+author: xSinclare
+main: us.thenerdcave.MySocialcommands
+version: 2.0.5
+description: A lightweight and user-friendly way to provide different platfroms where players can keep up with your server.
+
+commands:
+    website:
+        usage: /<command>
+        description: Displays your server's website.
+    discord:
+        usage: /<command>
+        description: Displays your server's Discord.
+    teamspeak:
+        usage: /<command>
+        description: Displays your server's TeamSpeak.
+    twitter:
+        usage: /<command>
+        description: Displays your server's Twitter.
+    instagram:
+        usage: /<command>
+        description: Displays your server's Instagram.
+    facebook:
+        usage: /<command>
+        description: Displays your server's Facebook.
+    snapchat:
+        usage: /<command>
+        description: Displays your server's Snapchat.
+    youtube:
+        usage: /<command>
+        description: Displays your server's YouTube.
+    screload:
+        usage: /<command>
+        description: Reloads plugin configuration.
+        default: op
+
+permissions:
+    sc.screload:
+        description: Use the screload command to reload the messages.yml file.
+        default: op

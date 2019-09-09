@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SocialCommands">
+    <output-path>$PROJECT_DIR$/../../myPlugins</output-path>
+    <root id="archive" name="SocialCommands.jar">
+      <element id="module-output" name="Social Commands" />
+    </root>
+  </artifact>
+</component>
